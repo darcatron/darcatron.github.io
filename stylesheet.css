@@ -1,0 +1,29 @@
+body {
+	color: #434348;
+	background-color: #E0E0E2;
+}
+
+h1.main {
+	color: #9696A1;
+	text-align: center;
+	vertical-align: middle;
+}
+
+h2 {
+	color: #6B6B72;
+}
+
+h4 {
+	color: #6B6B72;
+}
+
+p {
+	font-family: cursive;
+}
+
+li {
+	font-size: 15px;
+}
+.centered {
+	text-align: center;
+}
